@@ -6,10 +6,10 @@ P2PNet.Bootstrap is meant to facilitate P2PNet peer networks through initial pee
 Directing a P2PNet peer to a bootstrap server will lead the new peer to attempt to connect to all recognized members.
 
 
-![Static Badge](https://img.shields.io/badge/Secure_API-TODO-orange)
+![Static Badge](https://img.shields.io/badge/secure_API-TODO-orange)
 
-![Static Badge](https://img.shields.io/badge/Blacklist-TODO-orange)
+![Static Badge](https://img.shields.io/badge/blacklist-TODO-orange)
 
-![Static Badge](https://img.shields.io/badge/Remote_Control-TODO-orange)
+![Static Badge](https://img.shields.io/badge/remote_control-TODO-orange)
 
 **Note:** This extension is in preliminary development. This is in no way a stable or production build.
